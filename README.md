@@ -45,7 +45,7 @@ ex. Linux User
 
 ## Settings
 
-Get token from [slack API page](https://api.slack.com/web).
+Get token from [slack API page](https://api.slack.com/web#authentication).
 
 [<img src="https://68.media.tumblr.com/a3f5b61ee105e7932460a1303d2b496f/tumblr_oihao1lNZW1riy4fno1_250.png">](https://api.slack.com/web#authentication)
 
